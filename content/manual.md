@@ -2,7 +2,7 @@
 
 ## What is Briar? ##
 
-Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. Unlike traditional messaging tools such as email, Twitter or Telegram, Briar doesn't rely on a central server - messages are synchronized directly between the users' devices. If the internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet's up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.
+Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. Unlike traditional messaging apps, Briar doesn't rely on a central server - messages are synchronized directly between the users' devices. If the internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet's up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.
 
 ## Installation ##
 
@@ -10,14 +10,7 @@ Briar is [available on Google Play](https://play.google.com/store/apps/details?i
 
 > **Tip:** If you're not sure whether you have an Android device, check whether it has the Play Store app. If it does, it runs Android.
 
-If you have an Android device but you prefer not to use Google Play, you can install Briar by following these steps:
-
-1. Open the Settings app, scroll down, and open the Security section.
-2. Enable "Unknown sources" and confirm that you want to change the setting.
-3. Open the web browser and go to https://briarproject.org/beta/briar.apk
-4. Confirm that you want to download the file.
-5. When the download completes, tap the notification to install Briar.
-6. Go back to the Settings app and disable "Unknown sources".
+If you have an Android device but you prefer not to use Google Play, the Briar website has instructions for installing the app via <a href="https://briarproject.org/fdroid.html">F-Droid</a> or <a href="https://briarproject.org/apk.html">direct download</a>.
 
 ## Creating an Account ##
 
