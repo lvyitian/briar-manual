@@ -1,1 +1,1 @@
-To generate HTML, install [https://github.com/mixu/markdown-styles](markdown-styles) and run `generate-md --layout briar-manual/layout/mixu-radar-briar --input briar-manual/content --output briar-manual-html`.
+To generate HTML, install [markdown-styles](https://github.com/mixu/markdown-styles) and run `generate-md --layout briar-manual/layout/mixu-radar-briar --input briar-manual/content --output briar-manual-html`.
