@@ -275,3 +275,23 @@ To delete a contact, tap the contact's name in the contact list and choose "Dele
 > **Tip:** To protect your privacy, the contact won't be notified that you've deleted them. They'll just see you as offline from now on.
 
 <div style="clear:both"></div>
+
+## Settings ##
+
+<img src="assets/img/manual_dark_theme_settings-cropped.png" alt="The list of settings">
+
+To find the settings, open the main menu and choose "Settings".
+Here, you can customize your Briar experience.
+
+<div style="clear:both"></div>
+
+### Dark Theme ###
+
+<img src="assets/img/manual_dark_theme_nav_drawer-cropped.png" alt="THe main menu in a dark theme">
+
+You can change the default visual theme.
+There are these options:
+* **Light** uses bright colors with lots of white.
+* **Dark** uses very dark colors. Good for reading at night.
+* **Automatic** changes the theme to one of the two above based on the day time.
+* **System Default** sets the theme to whatever your system is set to.
