@@ -306,7 +306,12 @@ footer {
 
 .nav-list {
   height: 50%;
+  padding-left: 1em;
   margin: auto 0;
+}
+
+.sidebar-header-3 {
+  margin-left: 1em;
 }
 
 div.clear {
