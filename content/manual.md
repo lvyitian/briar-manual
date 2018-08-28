@@ -287,11 +287,11 @@ Here, you can customize your Briar experience.
 
 ### Dark Theme ###
 
-<img src="assets/img/manual_dark_theme_nav_drawer-cropped.png" alt="THe main menu in a dark theme">
+<img src="assets/img/manual_dark_theme_nav_drawer-cropped.png" alt="The main menu in a dark theme">
 
-You can change the default visual theme.
-There are these options:
-* **Light** uses bright colors with lots of white.
-* **Dark** uses very dark colors. Good for reading at night.
-* **Automatic** changes the theme to one of the two above based on the day time.
+You can change the color scheme that Briar uses.
+These are the options:
+* **Light** uses light colors.
+* **Dark** uses dark colors.
+* **Automatic** changes the theme based on the time of day.
 * **System Default** sets the theme to whatever your system is set to.
