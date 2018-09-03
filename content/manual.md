@@ -295,3 +295,23 @@ These are the options:
 * **Dark** uses dark colors.
 * **Automatic** changes the theme based on the time of day.
 * **System Default** sets the theme to whatever your system is set to.
+
+### App Lock ###
+
+<img src="assets/img/manual_app_lock-cropped.png" alt="">
+
+On recent devices, you can activate the app lock feature in the settings.
+If the setting is available, but can't be activated (greyed out),
+you need to set up screen security in your device settings first.
+
+Additionally, you can set a **Screen lock inactivity timeout**
+to automatically lock the app after it was not used for a certain amount of time.
+
+<div style="clear:both"></div>
+<img src="assets/img/manual_app_lock_keyguard.png" alt="">
+<img src="assets/img/manual_app_lock_nav_drawer-cropped.png" alt="">
+
+Once the feature was activated, an item **Lock App** will be added to the main menu.
+
+When the app is opened while locked,
+you will need to enter your PIN, pattern or password to access it.

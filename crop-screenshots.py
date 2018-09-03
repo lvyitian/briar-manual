@@ -14,6 +14,8 @@ def main():
     crop('manage-rss-feeds-2.png', 35)
     crop('manual_dark_theme_settings.png', 45)
     crop('manual_dark_theme_nav_drawer.png', 64)
+    crop('manual_app_lock.png', 75)
+    crop('manual_app_lock_nav_drawer.png', 75)
 
 
 def crop(file_name, bottom, top_offset=0, only_show=False):
