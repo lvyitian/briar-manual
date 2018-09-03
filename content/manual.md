@@ -56,7 +56,7 @@ Your devices will exchange information, and after a few seconds you'll be added 
 
 ## Messaging ##
 
-<img src="assets/img/conversation-cropped.png" alt="A private messaging conversation">
+<img src="assets/img/manual_messaging-cropped.png" alt="A private messaging conversation">
 
 To send a private message, tap a contact's name in the contact list.
 
