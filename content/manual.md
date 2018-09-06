@@ -296,6 +296,20 @@ These are the options:
 * **Automatic** changes the theme based on the time of day.
 * **System Default** sets the theme to whatever your system is set to.
 
+### Networks ###
+
+<img src="assets/img/manual_tor_settings-cropped.png" alt="">
+
+You can control how Briar connects to the internet:
+
+* Automatic based on location
+* Use Tor without bridges
+* Use Tor with bridges
+* Don't connect
+
+When you turn off mobile data, Briar will not connect to the internet
+as long as you are not connected to a WiFi network.
+
 ### App Lock ###
 
 <img src="assets/img/manual_app_lock-cropped.png" alt="">
