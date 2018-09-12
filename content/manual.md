@@ -281,17 +281,63 @@ To delete a contact, tap the contact's name in the contact list and choose "Dele
 <img src="assets/img/manual_dark_theme_settings-cropped.png" alt="The list of settings">
 
 To find the settings, open the main menu and choose "Settings".
-Here, you can customize your Briar experience.
+Here you can customize your Briar experience.
 
 <div style="clear:both"></div>
 
-### Dark Theme ###
+### Theme ###
 
 <img src="assets/img/manual_dark_theme_nav_drawer-cropped.png" alt="The main menu in a dark theme">
 
-You can change the color scheme that Briar uses.
-These are the options:
-* **Light** uses light colors.
-* **Dark** uses dark colors.
-* **Automatic** changes the theme based on the time of day.
-* **System Default** sets the theme to whatever your system is set to.
+You can change the color scheme that Briar uses:
+* **Light:** Briar will use light colors.
+* **Dark:** Briar will use dark colors.
+* **Automatic:** Briar will change its color scheme based on the time of day.
+* **System default:** Briar will use the system's color scheme.
+
+<div style="clear:both"></div>
+
+### Connect via Internet (Tor) ###
+
+<img src="assets/img/manual_tor_settings-cropped.png" alt="The 'Networks' section of the settings screen">
+
+> **Tip:** Briar uses Tor to connect to the internet. Tor is a network of computers run by volunteers around the world to help people access the internet privately and without censorship. "Bridges" are computers that can help you connect to Tor if your government or internet provider is blocking it.
+
+You can control how Briar connects to the internet:
+
+* **Automatic based on location:** Briar will choose how to connect based on your current location.
+* **Use Tor without bridges:** Briar will connect to Tor without using bridges.
+* **Use Tor with bridges:** Briar will use bridges to connect to Tor.
+* **Don't connect:** Briar won't connect to the internet at all.
+
+### Use Mobile Data ###
+
+You can control whether Briar uses mobile data. If you turn off mobile data, Briar will only use the internet when you're connected to Wi-Fi.
+
+### Screen Lock ###
+
+<img src="assets/img/manual_app_lock-cropped.png" alt="The 'Security' section of the settings screen">
+
+> **Tip:** This feature is not available on Android version 4.
+
+To protect your privacy when other people are using your device, you can lock Briar without signing out. This prevents Briar from being used until you enter a PIN, pattern or password.
+
+Briar uses the same PIN, pattern or password that you normally use to unlock your device, so this setting will be disabled (grayed out) if you haven't chosen a PIN, pattern or password yet. You can use your device's Settings app to choose one.
+
+<img src="assets/img/manual_app_lock_nav_drawer-cropped.png" alt="The main menu showing the 'Lock App' option">
+
+When the screen lock setting is activated, a "Lock App" option will be added to Briar's main menu. You can use this option to lock Briar without signing out.
+
+<div style="clear:both"></div>
+
+<img src="assets/img/manual_app_lock_keyguard.png" alt="Unlocking Briar">
+
+When Briar is locked, you'll be asked for your PIN, pattern or password to unlock it.
+
+<div style="clear:both"></div>
+
+### Screen Lock Inactivity Timeout ###
+
+> **Tip:** This feature is not available on Android version 4.
+
+You can choose to lock Briar automatically when it has not been used for a certain amount of time.
