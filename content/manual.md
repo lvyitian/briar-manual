@@ -290,10 +290,10 @@ Here you can customize your Briar experience.
 <img src="assets/img/manual_dark_theme_nav_drawer-cropped.png" alt="The main menu in a dark theme">
 
 You can change the color scheme that Briar uses:
-* **Light** uses light colors.
-* **Dark** uses dark colors.
-* **Automatic** changes the color scheme based on the time of day.
-* **System Default** uses the system's color scheme.
+* **Light:** Briar will use light colors.
+* **Dark:** Briar will use dark colors.
+* **Automatic:** Briar will change its color scheme based on the time of day.
+* **System default:** Briar will use the system's color scheme.
 
 <div style="clear:both"></div>
 
