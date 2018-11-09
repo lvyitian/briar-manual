@@ -6,7 +6,7 @@ Briar is a messaging app designed for activists, journalists, and anyone else wh
 
 ## Installation ##
 
-Briar is [available on Google Play](https://play.google.com/store/apps/details?id=org.briarproject.briar.beta) for devices running Android.
+Briar is [available on Google Play](https://play.google.com/store/apps/details?id=org.briarproject.briar.android) for devices running Android.
 
 > **Tip:** If you're not sure whether you have an Android device, check whether it has the Play Store app. If it does, it runs Android.
 
