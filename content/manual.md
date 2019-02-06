@@ -314,6 +314,10 @@ You can control how Briar connects to the internet:
 
 You can control whether Briar uses mobile data. If you turn off mobile data, Briar will only use the internet when you're connected to Wi-Fi.
 
+### Connect via Internet (Tor) Only When Charging ###
+
+You can control whether Briar uses the internet while your device is running on battery. If you turn on this setting, Briar will only use the internet when your device is connected to power.
+
 ### Screen Lock ###
 
 <img src="assets/img/manual_app_lock-cropped.png" alt="The 'Security' section of the settings screen">
