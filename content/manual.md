@@ -26,11 +26,40 @@ Tap "Create Account". When your account has been created you'll be taken to the 
 
 ## Adding Contacts ##
 
-<img src="assets/img/contact-list-cropped.png" alt="The contact list">
+<img src="assets/img/add-contact-options-cropped.png" alt="Options for adding a contact">
 
-To add a contact, tap the plus icon at the top of the contact list.
+To add a contact, tap the plus icon at the bottom right of the contact list.
+
+Choose one of the two options that appear.
 
 <div style="clear:both"></div>
+
+### Add contact at a distance
+
+<img src="assets/img/add-contact-remotely.png" alt="Adding a contact at a distance">
+
+Copy the <code>briar://</code> link and send it to the contact you want to add.
+You can also share the link with another app for sending.
+
+Paste the link that you receive from the person you want to add into the text field below.
+Click "Continue" and add a nickname for the new contact.
+
+Finally, you will see a "Pending Contact Requests" screen
+that informs you about the state of each pending contact.
+Briar will attempt to connect to your contact regularly to add them.
+
+If it was unable to add your contact for more than 48h, you will need to try again.
+
+Once a connection succeeds, you'll be added to each other's contact lists.
+Congratulations! You're ready to communicate securely.
+
+<div style="clear:both"></div>
+
+<img src="assets/img/add-contact-pending-cropped.png" alt="Pending Contacts">
+
+<div style="clear:both"></div>
+
+### Add contact nearby
 
 <img src="assets/img/add-contact-1.png" alt="Adding a contact, step 1">
 

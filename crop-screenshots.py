@@ -9,6 +9,8 @@ POSTFIX = '-cropped'
 
 
 def main():
+    crop('add-contact-options.png', 93, 65)
+    crop('add-contact-pending.png', 22, 4)
     crop('manual_messaging.png', 50)
     crop('introduction-5.png', 77, 47)
     crop('manage-rss-feeds-2.png', 35)
