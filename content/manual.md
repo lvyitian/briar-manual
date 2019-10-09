@@ -38,20 +38,20 @@ Choose one of the two options that appear.
 
 <img src="assets/img/add-contact-remotely.png" alt="Adding a contact at a distance">
 
-Copy the <code>briar://</code> link and send it to the contact you want to add.
-You can also share the link with another app for sending.
+Copy the <code>briar://</code> link and send it to the person you want to add.
+You can also use the "Share" button to choose an app for sending the link.
 
 Paste the link that you receive from the person you want to add into the text field below.
-Click "Continue" and add a nickname for the new contact.
+Click "Continue" and choose a nickname for the new contact.
 
-Finally, you will see a "Pending Contact Requests" screen
+Next you will see a "Pending Contact Requests" screen
 that informs you about the state of each pending contact.
-Briar will attempt to connect to your contact regularly to add them.
-
-If it was unable to add your contact for more than 48h, you will need to try again.
+Briar will try to connect to your contact regularly to add them.
 
 Once a connection succeeds, you'll be added to each other's contact lists.
 Congratulations! You're ready to communicate securely.
+
+If Briar can't connect to your contact after 48 hours, the pending contact list will show the message "Adding contact has failed". Both of you should delete the pending contact from the list and add each other's links again.
 
 <div style="clear:both"></div>
 
@@ -63,7 +63,7 @@ Congratulations! You're ready to communicate securely.
 
 <img src="assets/img/add-contact-1.png" alt="Adding a contact, step 1">
 
-You must meet up with the person you want to add as a contact. Each of you will scan a QR code from the other person's screen. This ensures you're connecting to the right person, so nobody else can impersonate you or read your messages.
+Another way to add a contact is to meet up with the person you want to add. Each of you will scan a QR code from the other person's screen. This ensures you're connecting to the right person, so nobody else can impersonate you or read your messages.
 
 Tap "Continue" when you're ready to start.
 
