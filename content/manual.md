@@ -26,15 +26,44 @@ Tap "Create Account". When your account has been created you'll be taken to the 
 
 ## Adding Contacts ##
 
-<img src="assets/img/contact-list-cropped.png" alt="The contact list">
+<img src="assets/img/add-contact-options-cropped.png" alt="Options for adding a contact">
 
-To add a contact, tap the plus icon at the top of the contact list.
+To add a contact, tap the plus icon at the bottom right of the contact list.
+
+Choose one of the two options that appear.
 
 <div style="clear:both"></div>
 
+### Add contact at a distance
+
+<img src="assets/img/add-contact-remotely.png" alt="Adding a contact at a distance">
+
+Copy the <code>briar://</code> link and send it to the person you want to add.
+You can also use the "Share" button to choose an app for sending the link.
+
+Paste the link that you receive from the person you want to add into the text field below.
+Click "Continue" and choose a nickname for the new contact.
+
+Next you will see a "Pending Contact Requests" screen
+that informs you about the state of each pending contact.
+Briar will try to connect to your contact regularly to add them.
+
+Once a connection succeeds, you'll be added to each other's contact lists.
+Congratulations! You're ready to communicate securely.
+
+If Briar can't connect to your contact after 48 hours, the pending contact list will show the message "Adding contact has failed". Both of you should delete the pending contact from the list and add each other's links again.
+
+<div style="clear:both"></div>
+
+<img src="assets/img/add-contact-pending-cropped.png" alt="Pending Contacts">
+
+<div style="clear:both"></div>
+
+### Add contact nearby
+
 <img src="assets/img/add-contact-1.png" alt="Adding a contact, step 1">
 
-You must meet up with the person you want to add as a contact. Each of you will scan a QR code from the other person's screen. This ensures you're connecting to the right person, so nobody else can impersonate you or read your messages.
+Another way to add a contact is to meet up with the person you want to add. Each of you will scan a QR code from the other person's screen. This ensures you're connecting to the right person, so nobody else can impersonate you or read your messages.
 
 Tap "Continue" when you're ready to start.
 
