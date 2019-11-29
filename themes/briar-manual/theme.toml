@@ -1,21 +1,11 @@
-# theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
-
 name = "Briar Manual"
-license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
-homepage = "http://example.com/"
-tags = []
-features = []
+license = "BSD-3-Clause"
+licenselink = "https://spdx.org/licenses/BSD-3-Clause.html"
+description = "Based on the mixu-radar theme."
 min_version = "0.41"
 
-[author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "mixu-radar"
+  homepage = "https://github.com/mixu/markdown-styles#mixu-radar"
+  licenselink = "https://spdx.org/licenses/BSD-3-Clause.html"
+  repo = "https://github.com/mixu/markdown-styles"
