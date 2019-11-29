@@ -1,0 +1,4 @@
+baseURL = "https://briarproject.org/manual"
+languageCode = "en-us"
+title = "Briar User Manual"
+theme = "briar-manual"
