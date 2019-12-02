@@ -4,7 +4,7 @@ import os
 
 from PIL import Image
 
-IMAGE_PATH = "content/assets/img"
+IMAGE_PATH = "static/img"
 POSTFIX = '-cropped'
 
 
