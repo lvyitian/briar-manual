@@ -1,4 +1,9 @@
 baseURL = "https://briarproject.org/manual"
-languageCode = "en-us"
-title = "Briar User Manual"
+languageCode = "en"
+DefaultContentLanguage = "en"
+canonifyURLs = "true"
 theme = "briar-manual"
+
+[languages]
+  [languages.en]
+    languageName = "English"
