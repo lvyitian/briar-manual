@@ -7,3 +7,10 @@ theme = "briar-manual"
 [languages]
   [languages.en]
     languageName = "English"
+  [languages.es]
+    languageName = "español"
+  [languages.fr]
+    languageName = "français"
+  [languages.fa]
+    languageName = "فارسى"
+    languagedirection = "rtl"
