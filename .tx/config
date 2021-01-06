@@ -8,3 +8,11 @@ type = GITHUBMARKDOWN
 mode = developer
 source_lang = en
 minimum_perc = 100
+
+[briar.manual-meta]
+source_file = i18n/en.yaml
+file_filter = i18n/<lang>.yaml
+type = YAML_GENERIC
+mode = developer
+source_lang = en
+minimum_perc = 100
