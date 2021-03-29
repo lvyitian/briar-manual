@@ -3,9 +3,14 @@
         {{ if .IsTranslated }}
         <h4>{{ i18n "translations" }}</h4>
         <ul class="nav-list">
-            {{ range .Translations }}
+            {{ $currentPage := . }}
+            {{ range $.Site.Home.AllTranslations }}
             <li>
+                {{ if (eq $currentPage.URL .URL) }}
+                {{ .Language.LanguageName }}: {{ .Title }}
+                {{ else }}
                 <a href="{{ .Permalink }}">{{ .Language.LanguageName }}: {{ .Title }}</a>
+                {{ end }}
             </li>
             {{ end }}
         </ul>
