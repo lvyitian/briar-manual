@@ -1,5 +1,6 @@
 [main]
 host = https://www.transifex.com
+lang_map = zh-Hans: zh-hans
 
 [briar.manual]
 source_file = content/_index.md
