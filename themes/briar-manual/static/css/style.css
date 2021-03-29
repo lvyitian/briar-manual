@@ -281,6 +281,10 @@ footer {
   height: 100%;
 }
 
+[dir="rtl"] #toc {
+  left: 0;
+  right: auto;
+ }
 
 #toc::before {
   content: "";
