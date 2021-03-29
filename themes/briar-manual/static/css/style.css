@@ -97,6 +97,10 @@ img {
   border:1px solid #000000;
 }
 
+img:dir(rtl) {
+  float:left;
+}
+
 header {
   width:270px;
   float:left;
