@@ -32,5 +32,7 @@ theme = "briar-manual"
     languageName = "svenska"
   [languages.tr]
     languageName = "Türkçe"
+  [languages.uk]
+    languageName = "украї́нська мо́ва"
   [languages.zh-hans]
     languageName = "简化字"
