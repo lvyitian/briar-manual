@@ -5,8 +5,10 @@
         <ul class="nav-list">
             {{ $currentPage := . }}
             {{ range $.Site.Home.AllTranslations }}
+            {{ $nav_item_url := .Permalink }} 
+            {{ $nav_url:= $currentPage.Permalink}}
             <li>
-                {{ if (eq $currentPage.URL .URL) }}
+                {{ if eq $nav_item_url $nav_url  }}
                 {{ .Language.LanguageName }}: {{ .Title }}
                 {{ else }}
                 <a href="{{ .Permalink }}">{{ .Language.LanguageName }}: {{ .Title }}</a>
