@@ -6,7 +6,7 @@ theme = "briar-manual"
 
 [languages]
   [languages.de]
-    languageName = "German"
+    languageName = "Deutsch"
   [languages.en]
     languageName = "English"
   [languages.es]
