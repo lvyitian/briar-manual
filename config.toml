@@ -18,14 +18,24 @@ theme = "briar-manual"
     languageName = "français"
   [languages.gl]
     languageName = "galego"
+  [languages.hu]
+    languageName = "magyar"
   [languages.is]
     languageName = "íslenska"
   [languages.it]
     languageName = "italiano"
   [languages.lt]
     languageName = "lietuvių"
+  [languages.my]
+    languageName = "မြန်မာ"
+  [languages.nl]
+    languageName = "Nederlands"
+  [languages.ro]
+    languageName = "română"
   [languages.ru]
     languageName = "русский"
+  [languages.pl]
+    languageName = "polski"
   [languages.sq]
     languageName = "shqip"
   [languages.sv]
