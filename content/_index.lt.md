@@ -22,7 +22,7 @@ Kai pirmą kartą atversite Briar, jūsų bus paprašyta susikurti paskyrą. Gal
 
 > **Įspėjimas:** Jūsų Briar paskyra yra saugiai laikoma jūsų įrenginyje, o ne debesijoje. Jeigu pašalinsite Briar programėlę ar pamiršite slaptažodį, nebeturėsite jokios galimybės atkurti savo paskyrą.
 
-Bakstelėkite "Sukurti paskyrą". Kai jūsų paskyra bus sukurta, būsite perkelti į adresatų sąrašą.
+Bakstelėkite „Sukurti paskyrą“. Kai jūsų paskyra bus sukurta, būsite perkelti į adresatų sąrašą.
 
 {{< break-do-not-translate >}}
 
@@ -41,12 +41,12 @@ Pasirinkite vieną iš dviejų atsiradusių variantų.
 ![Adresato pridėjimas per atstumą](/img/add-contact-remotely.png)
 
 Nukopijuokite <code>briar://</code> nuorodą ir išsiųskite ją asmeniui, kurį norite pridėti.
-Taip pat galite naudoti mygtuką "Bendrinti", kad pasirinktumėte programą per kurią siųsite nuorodą.
+Taip pat galite naudoti mygtuką „Bendrinti“, kad pasirinktumėte programą per kurią siųsite nuorodą.
 
 Į žemiau esantį lauką įdėkite nuorodą, kurią gavote iš asmens, kurį norite pridėti.
-Spustelėkite "Tęsti" ir pasirinkite naujam adresatui slapyvardį.
+Spustelėkite „Tęsti“ ir pasirinkite naujam adresatui slapyvardį.
 
-Toliau, matysite langą "Laukiančios adresatų užklausos",
+Toliau, matysite langą „Laukiančios adresatų užklausos“,
 kuris jus informuoja apie kiekvieno laukiančio adresato
 būseną. Briar reguliariai bandys prisijungti prie jūsų
 adresato, kad jį pridėtų.
@@ -54,7 +54,7 @@ adresato, kad jį pridėtų.
 Kai prisijungimas pavyks, būsite pridėti vienas į kito adresatų sąrašą.
 Sveikiname! Esate pasiruošę saugiai bendrauti.
 
-Jeigu po 48 valandų Briar nepavyks prisijungti prie jūsų adresato, tuomet laukiančių adresatų sąraše bus rodomas pranešimas "Adresato pridėti nepavyko". Jūs kartu su adresatu turėtumėte ištrinti iš sąrašo laukiantį adresatą ir dar kartą pridėti vienas kito nuorodas.
+Jeigu po 48 valandų Briar nepavyks prisijungti prie jūsų adresato, tuomet laukiančių adresatų sąraše bus rodomas pranešimas „Adresato pridėti nepavyko“. Jūs kartu su adresatu turėtumėte ištrinti iš sąrašo laukiantį adresatą ir dar kartą pridėti vienas kito nuorodas.
 
 {{< break-do-not-translate >}}
 
@@ -68,7 +68,7 @@ Jeigu po 48 valandų Briar nepavyks prisijungti prie jūsų adresato, tuomet lau
 
 Dar vienas būdas kaip galite pridėti adresatą  - tai susitikti su asmeniu, kurį norite pridėti. Kiekvienas iš jūsų nuskenuos vienas kito QR kodą iš ekrano. Tai užtikrins, kad prisijungsite prie tinkamo asmens, kad tokiu būdu niekas kitas negalėtų apsimesti jumis ar skaityti jūsų žinučių.
 
-Kai būsite pasiruošę pradėti, bakstelėkite "Tęsti".
+Kai būsite pasiruošę pradėti, bakstelėkite „Tęsti“.
 
 {{< break-do-not-translate >}}
 
@@ -76,7 +76,7 @@ Kai būsite pasiruošę pradėti, bakstelėkite "Tęsti".
 
 Išlyginkite savo adresato QR kodą su vaizdo ieškikliu. Jums gali tekti palaukti kelias sekundes, kol kamera sufokusuos vaizdą.
 
-Kamerai nuskenavus QR kodą, matysite pranešimą "Laukiama, kol adresatas nuskenuos ir prisijungs". Dabar, adresatas turėtų nuskenuoti jūsų QR kodą.
+Kamerai nuskenavus QR kodą, matysite pranešimą „Laukiama, kol adresatas nuskenuos ir prisijungs“. Dabar, adresatas turėtų nuskenuoti jūsų QR kodą.
 
 {{< break-do-not-translate >}}
 
@@ -102,7 +102,7 @@ Jeigu jūsų adresatas yra atsijungęs, tuomet jūsų žinutė bus pristatyta, k
 
 ![Pradedamas supažindinimas](/img/introduction-1-cropped.png)
 
-Galite supažindinti savo adresatus vieną su kitu per Briar. Tai leidžia jiems tapti adresatais be būtinybės susitikti. Norėdami pradėti supažindinimą, adresatų sąraše bakstelėkite adresato vardą ir meniu pasirinkite "Supažindinti".
+Galite supažindinti savo adresatus vieną su kitu per Briar. Tai leidžia jiems tapti adresatais be būtinybės susitikti. Norėdami pradėti supažindinimą, adresatų sąraše bakstelėkite adresato vardą ir meniu pasirinkite „Supažindinti“.
 
 {{< break-do-not-translate >}}
 
@@ -114,7 +114,7 @@ Toliau, pasirinkite kitą adresatą, su kuriuo norite supažindinti.
 
 ![Pridedama žinutė abiems adresatams](/img/introduction-3-cropped.png)
 
-Pridėkite nebūtiną žinutę adresatams, o tuomet bakstelėkite "Supažindinti".
+Pridėkite nebūtiną žinutę adresatams, o tuomet bakstelėkite „Supažindinti“.
 
 {{< break-do-not-translate >}}
 
@@ -128,13 +128,13 @@ Jūsų adresatai matys žinutę, kurioje bus klausiama ar jie priima supažindin
 
 ![Pagrindinis meniu su pasirinkta privačių grupių ypatybe](/img/nav-drawer-private-groups.png)
 
-Galite naudoti Briar grupiniams pokalbiams su savo adresatais. Norėdami sukurti grupę, atverkite pagrindinį meniu ir pasirinkite "Privačios grupės". Atsivers privačių grupių sąrašas. Bakstelėkite pliuso piktogramą, kad sukurtumėte naują grupę.
+Galite naudoti Briar grupiniams pokalbiams su savo adresatais. Norėdami sukurti grupę, atverkite pagrindinį meniu ir pasirinkite „Privačios grupės“. Atsivers privačių grupių sąrašas. Bakstelėkite pliuso piktogramą, kad sukurtumėte naują grupę.
 
 {{< break-do-not-translate >}}
 
 ![Privačios grupės sukūrimas, 1 žingsnis](/img/create-private-group-1-cropped.png)
 
-Pasirinkite savo grupės pavadinimą, o tuomet bakstelėkite "Sukurti grupę".
+Pasirinkite savo grupės pavadinimą, o tuomet bakstelėkite „Sukurti grupę“.
 
 {{< break-do-not-translate >}}
 
@@ -146,7 +146,7 @@ Toliau, pasirinkite adresatus, kuriuos norėtumėte pakviesti prisijungti prie g
 
 ![Privačios grupės sukūrimas, 3 žingsnis](/img/create-private-group-3-cropped.png)
 
-Pridėkite nebūtiną žinutę pasirinktiems adresatams, o tuomet bakstelėkite "Siųsti pakvietimą". Adresatai matys žinutę, kviečiančią juos prisijungti.
+Pridėkite nebūtiną žinutę pasirinktiems adresatams, o tuomet bakstelėkite „Siųsti pakvietimą“. Adresatai matys žinutę, kviečiančią juos prisijungti.
 
 {{< break-do-not-translate >}}
 
@@ -170,13 +170,13 @@ Grupės kūrėjas yra vienintelis asmuo, kuris gali pakviesti naujus narius. Bet
 
 Forumas yra viešasis pokalbis. Kitaip nei privačioje grupėje, kiekvienas prisijungęs prie forumo gali pakviesti savo asmeninius adresatus.
 
-Norėdami sukurti forumą, atverkite pagrindinį meniu ir pasirinkite "Forumai". Atsivers forumų sąrašas. Bakstelėkite pliuso piktogramą, kad sukurtumėte naują forumą.
+Norėdami sukurti forumą, atverkite pagrindinį meniu ir pasirinkite „Forumai“. Atsivers forumų sąrašas. Bakstelėkite pliuso piktogramą, kad sukurtumėte naują forumą.
 
 {{< break-do-not-translate >}}
 
 ![Forumo sukūrimas](/img/create-forum-1-cropped.png)
 
-Pasirinkite savo forumo pavadinimą, o tuomet bakstelėkite "Sukurti forumą".
+Pasirinkite savo forumo pavadinimą, o tuomet bakstelėkite „Sukurti forumą“.
 
 {{< break-do-not-translate >}}
 
@@ -200,7 +200,7 @@ Toliau, pasirinkite adresatus, su kuriais norėtumėte bendrinti forumą. Viską
 
 ![Forumo bendrinimas, 3 žingsnis](/img/share-forum-3-cropped.png)
 
-Pridėkite nebūtiną žinutę pasirinktiems adresatams, o tuomet bakstelėkite "Bendrinti forumą". Adresatai matys žinutę, kviečiančią juos prisijungti.
+Pridėkite nebūtiną žinutę pasirinktiems adresatams, o tuomet bakstelėkite „Bendrinti forumą“. Adresatai matys žinutę, kviečiančią juos prisijungti.
 
 {{< break-do-not-translate >}}
 
@@ -220,7 +220,7 @@ Bet kuris forumo narys gali pakviesti naujus narius, ir bet kuris narys, įskait
 
 Jūsų Briar paskyra turi įtaisytą tinklaraštį. Galite jį naudoti, norėdami paskelbti naujienas ir atnaujinimus apie savo gyvenimą. Jūsų tinklaraštis yra automatiškai bendrinamas su jūsų adresatais, o jų tinklaraščiai yra bendrinami su jumis.
 
-Norėdami skaityti adresatų tinklaraščius ar rašyti įrašą, atverkite pagrindinį meniu ir pasirinkite "Tinklaraščiai"
+Norėdami skaityti adresatų tinklaraščius ar rašyti įrašą, atverkite pagrindinį meniu ir pasirinkite „Tinklaraščiai“
 
 {{< break-do-not-translate >}}
 
@@ -232,7 +232,7 @@ Norėdami rašyti įrašą, tinklaraščio kanalo viršuje bakstelėkite rašikl
 
 ![Tinklaraščio įrašo rašymas, 2 žingsnis](/img/write-blog-post-2-cropped.png)
 
-Parašykite savo įrašą ir bakstelėkite "Paskelbti".
+Parašykite savo įrašą ir bakstelėkite „Paskelbti“.
 
 {{< break-do-not-translate >}}
 
@@ -250,7 +250,7 @@ Norėdami bendrinti įrašą į savo tinklaraštį, bakstelėkite įrašo kampe 
 
 ![Įrašo bendrinimas į savo tinklaraštį, 2 žingsnis](/img/reblog-2-cropped.png)
 
-Pridėkite nebūtiną komentarą ir bakstelėkite "Bendrinti į savo tinklaraštį".
+Pridėkite nebūtiną komentarą ir bakstelėkite „Bendrinti į savo tinklaraštį“.
 
 {{< break-do-not-translate >}}
 
@@ -270,13 +270,13 @@ Galite naudoti Briar, kad skaitytumėte bet kokį tinklaraštį ar naujienų sve
 
 ![RSS kanalo importavimas, 1 žingsnis](/img/import-rss-feed-1-cropped.png)
 
-Norėdami importuoti RSS kanalą, atverkite tinklaraščio kanalą ir meniu pasirinkite "Importuoti RSS kanalą".
+Norėdami importuoti RSS kanalą, atverkite tinklaraščio kanalą ir meniu pasirinkite „Importuoti RSS kanalą“.
 
 {{< break-do-not-translate >}}
 
 ![RSS kanalo importavimas, 2 žingsnis](/img/import-rss-feed-2-cropped.png)
 
-Įveskite RSS kanalo URL adresą ir bakstelėkite "Importuoti". Straipsniai bus atsiųsti ir pridėti į tinklaraščio kanalą. Tai gali užtrukti kelias minutes.
+Įveskite RSS kanalo URL adresą ir bakstelėkite „Importuoti“. Straipsniai bus atsiųsti ir pridėti į tinklaraščio kanalą. Tai gali užtrukti kelias minutes.
 
 {{< break-do-not-translate >}}
 
@@ -288,7 +288,7 @@ Kai bus paskelbti nauji straipsniai, Briar automatiškai juos atsisiųs. Importu
 
 ![RSS kanalų tvarkymas, 1 žingsnis](/img/manage-rss-feeds-1-cropped.png)
 
-Norėdami tvarkyti savo RSS kanalus, atverkite tinklaraščio kanalą ir meniu pasirinkite "Tvarkyti RSS kanalus".
+Norėdami tvarkyti savo RSS kanalus, atverkite tinklaraščio kanalą ir meniu pasirinkite „Tvarkyti RSS kanalus“.
 
 {{< break-do-not-translate >}}
 
@@ -302,7 +302,7 @@ Norėdami pašalinti kanalą, bakstelėkite ant šiukšlinės piktogramos. Iš t
 
 ![Adresato ištrynimas](/img/delete-contact-cropped.png)
 
-Norėdami ištrinti adresatą, adresatų sąraše bakstelėkite ant adresato vardo ir meniu pasirinkite "Ištrinti adresatą".
+Norėdami ištrinti adresatą, adresatų sąraše bakstelėkite ant adresato vardo ir meniu pasirinkite „Ištrinti adresatą“.
 
 > **Užuomina:** Siekiant apsaugoti jūsų privatumą, adresatui nebus pranešta, kad jį ištrynėte. Tiesiog nuo šiol, adresatui būsite rodomi kaip atsijungę nuo tinklo.
 
@@ -312,7 +312,7 @@ Norėdami ištrinti adresatą, adresatų sąraše bakstelėkite ant adresato var
 
 ![Nustatymų sąrašas](/img/manual_dark_theme_settings-cropped.png)
 
-Norėdami rasti nustatymus, atverkite pagrindinį meniu ir pasirinkite "Nustatymai".
+Norėdami rasti nustatymus, atverkite pagrindinį meniu ir pasirinkite „Nustatymai“.
 Čia galite tinkinti savo Briar patyrimą.
 
 {{< break-do-not-translate >}}
@@ -332,9 +332,9 @@ Galite keisti Briar naudojamą spalvų rinkinį:
 
 ## Prisijungti per internetą (Tor)
 
-![Nustatymų lango "Tinklų" sekcija](/img/manual_tor_settings-cropped.png)
+![Nustatymų lango „Tinklų“ sekcija](/img/manual_tor_settings-cropped.png)
 
-> **Užuomina:** Prisijungimui prie interneto Briar naudoja Tor. Tor yra kompiuterių tinklas, veikiantis visame pasaulyje esančių savanorių dėka, skirtas padėti žmonėms gauti privačią ir necenzūruotą prieigą prie interneto. "Tinklų tiltai" yra kompiuteriai, kurie gali padėti prisijungti prie Tor tinklo tuo atveju, jeigu jūsų vyriausybė ar interneto paslaugų teikėjas jį blokuoją.
+> **Užuomina:** Prisijungimui prie interneto Briar naudoja Tor. Tor yra kompiuterių tinklas, veikiantis visame pasaulyje esančių savanorių dėka, skirtas padėti žmonėms gauti privačią ir necenzūruotą prieigą prie interneto. „Tinklų tiltai“ yra kompiuteriai, kurie gali padėti prisijungti prie Tor tinklo tuo atveju, jeigu jūsų vyriausybė ar interneto paslaugų teikėjas jį blokuoją.
 
 Galite valdyti tai, kaip Briar jungiasi prie interneto:
 
@@ -353,7 +353,7 @@ Galite valdyti ar Briar turėtų naudotis internetu, kai jūsų įrenginys veiki
 
 ## Ekrano užraktas
 
-![Nustatymų lango "Saugumo" sekcija](/img/manual_app_lock-cropped.png)
+![Nustatymų lango „Saugumo“ sekcija](/img/manual_app_lock-cropped.png)
 
 > **Užuomina:** Ši ypatybė nėra prieinama Android 4 versijoje.
 
@@ -361,9 +361,9 @@ Siekiant apsaugoti jūsų privatumą tais atvejais, kai kiti žmonės naudojasi 
 
 Briar naudoja tą patį PIN kodą, šabloną ar slaptažodį, kurį įprastai naudojate savo įrenginio atrakinimui, taigi, jei kol kas nesate nusistatę PIN kodo, šablono ar slaptažodžio, tuomet šis nustatymas bus išjungtas (pilkos spalvos). Norėdami kurį nors iš jų nusistatyti, tai padaryti galite savo įrenginio nustatymuose.
 
-![Pagrindinis meniu rodantis parinktį "Užrakinti programėlę"](/img/manual_app_lock_nav_drawer-cropped.png)
+![Pagrindinis meniu rodantis parinktį „Užrakinti programėlę“](/img/manual_app_lock_nav_drawer-cropped.png)
 
-Aktyvavus ekrano užrakto nustatymą, į Briar pagrindinį meniu bus pridėta parinktis "Užrakinti programėlę". Galite naudoti šią parinktį norėdami užrakinti Briar neatsijungiant iš paskyros.
+Aktyvavus ekrano užrakto nustatymą, į Briar pagrindinį meniu bus pridėta parinktis „Užrakinti programėlę“. Galite naudoti šią parinktį norėdami užrakinti Briar neatsijungiant iš paskyros.
 
 {{< break-do-not-translate >}}
 

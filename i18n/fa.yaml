@@ -1,5 +1,4 @@
-# Transifex support depends on https://github.com/gohugoio/hugo/issues/5242
 translations:
-  other: "ترجمه ها"
+  other: "ترجمه‌ها"
 toc:
   other: "فهرست مطالب"
