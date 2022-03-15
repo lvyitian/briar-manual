@@ -1,19 +1,18 @@
 [main]
-host = https://www.transifex.com
+host     = https://www.transifex.com
 lang_map = zh-Hans: zh-hans
 
-[briar.manual]
-source_file = content/_index.md
-file_filter = content/_index.<lang>.md
-type = GITHUBMARKDOWN
-mode = developer
-source_lang = en
+[o:otf:p:briar:r:manual]
+file_filter  = content/_index.<lang>.md
+source_file  = content/_index.md
+source_lang  = en
+type         = GITHUBMARKDOWN
 minimum_perc = 100
 
-[briar.manual-meta]
-source_file = i18n/en.yaml
-file_filter = i18n/<lang>.yaml
-type = YAML_GENERIC
-mode = developer
-source_lang = en
+[o:otf:p:briar:r:manual-meta]
+file_filter  = i18n/<lang>.yaml
+source_file  = i18n/en.yaml
+source_lang  = en
+type         = YAML_GENERIC
 minimum_perc = 100
+
