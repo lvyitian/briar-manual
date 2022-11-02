@@ -12,8 +12,7 @@ Briar er [tilgjengelig på Google Play](https://play.google.com/store/apps/detai
 
 > **Tips:** Hvis du ikke er sikker på om du har en Android-enhet, sjekk om den har Play Store-app'en. Hvis den har det, kjører den Android.
 
-Dersom du har en Android-enhet men foretrekker ikke å bruke Google Play, så har Briar's webside introduksjoner for å installere appen via [F-Droid]
-(https://briarproject.org/fdroid.html) eller [direkte nedlasting](https://briarproject.org/apk.html).
+Dersom du har en Android-enhet men foretrekker ikke å bruke Google Play, så har Briar's webside introduksjoner for å installere appen via [F-Droid](https://briarproject.org/fdroid.html) eller [direkte nedlasting](https://briarproject.org/apk.html).
 
 # Lage en konto
 
