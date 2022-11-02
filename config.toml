@@ -10,40 +10,40 @@ theme = "briar-manual"
   [languages.en]
     languageName = "English"
   [languages.es]
-    languageName = "español"
+    languageName = "Español"
   [languages.fa]
     languageName = "فارسى"
     languagedirection = "rtl"
   [languages.fr]
-    languageName = "français"
+    languageName = "Français"
   [languages.gl]
-    languageName = "galego"
+    languageName = "Galego"
   [languages.hu]
-    languageName = "magyar"
+    languageName = "Magyar"
   [languages.is]
     languageName = "íslenska"
   [languages.ka]
     languageName = "ქართული"
   [languages.it]
-    languageName = "italiano"
+    languageName = "Italiano"
   [languages.lt]
-    languageName = "lietuvių"
+    languageName = "Lietuvių"
   [languages.my]
     languageName = "မြန်မာ"
   [languages.nb-no]
-    languageName = "norsk bokmål"
+    languageName = "Norsk Bokmål"
   [languages.nl]
     languageName = "Nederlands"
   [languages.ro]
-    languageName = "română"
+    languageName = "Română"
   [languages.ru]
     languageName = "русский"
   [languages.pl]
-    languageName = "polski"
+    languageName = "Polski"
   [languages.sq]
-    languageName = "shqip"
+    languageName = "Shqip"
   [languages.sv]
-    languageName = "svenska"
+    languageName = "Svenska"
   [languages.tr]
     languageName = "Türkçe"
   [languages.uk]
