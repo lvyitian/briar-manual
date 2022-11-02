@@ -1,6 +1,6 @@
 [main]
 host     = https://www.transifex.com
-lang_map = zh-Hans: zh-hans
+lang_map = zh-Hans: zh-hans, nb_NO: nb-no
 
 [o:otf:p:briar:r:manual]
 file_filter  = content/_index.<lang>.md

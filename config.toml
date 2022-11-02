@@ -22,12 +22,16 @@ theme = "briar-manual"
     languageName = "magyar"
   [languages.is]
     languageName = "íslenska"
+  [languages.ka]
+    languageName = "ქართული"
   [languages.it]
     languageName = "italiano"
   [languages.lt]
     languageName = "lietuvių"
   [languages.my]
     languageName = "မြန်မာ"
+  [languages.nb-no]
+    languageName = "norsk bokmål"
   [languages.nl]
     languageName = "Nederlands"
   [languages.ro]
