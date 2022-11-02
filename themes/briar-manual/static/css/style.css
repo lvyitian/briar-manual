@@ -272,6 +272,7 @@ footer {
 
 .nav-list, #TableOfContents ul {
   padding-left: 1em;
+  margin: auto 0;
 }
 
 div.clear {
